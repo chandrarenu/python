@@ -17,4 +17,4 @@ git commit -m "..."
 <!-- ssh key check grna lai-->
  ssh-keygen
 
- git remote
+ git remote add 
