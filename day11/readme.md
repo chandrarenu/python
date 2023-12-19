@@ -17,4 +17,11 @@ git commit -m "..."
 <!-- ssh key check grna lai-->
  ssh-keygen
 
- git remote add 
+ git remote add origin
+
+ git push -u origin main
+
+
+
+ <!-- new branch banauna lai-->
+ git checkout -b "branch name"
